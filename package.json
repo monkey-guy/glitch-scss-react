@@ -1,0 +1,19 @@
+{
+  "name": "cool-sigma",
+  "description": "make your package easier to find on the npm website",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite build --mode development"
+  },
+  "devDependencies": {
+    "@types/react-dom": "18.3.1",
+    "@types/react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react": "18.3.1",
+    "sass": "1.80.3",
+    "vite": "5.4.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+}
